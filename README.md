@@ -2,10 +2,10 @@
 
 ## Run Project
 
-### open two terminal , First one:
-### Json Server Install -> npm install -g json-server
-### run -> npm run server
+### * Open two terminal , First one:
+### 1- Json Server Install -> npm install -g json-server
+### 2- run -> npm run server
 
-### 'another terminal'
-### Node Modules Install -> npm install
-### run -> npm start
+### * Another terminal
+### 1- Node Modules Install -> npm install
+### 2- run -> npm start
